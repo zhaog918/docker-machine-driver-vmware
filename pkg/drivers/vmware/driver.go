@@ -39,7 +39,7 @@ import (
 	"github.com/docker/machine/libmachine/mcnutils"
 	"github.com/docker/machine/libmachine/ssh"
 	"github.com/docker/machine/libmachine/state"
-	"github.com/machine-drivers/docker-machine-driver-vmware/pkg/drivers/vmware/config"
+	"github.com/zhaog918/docker-machine-driver-vmware/pkg/drivers/vmware/config"
 	cryptossh "golang.org/x/crypto/ssh"
 )
 
