@@ -18,7 +18,7 @@ package main
 
 import (
 	"github.com/docker/machine/libmachine/drivers/plugin"
-	"github.com/machine-drivers/docker-machine-driver-vmware/pkg/drivers/vmware"
+	"https://github.com/zhaog918/docker-machine-driver-vmware"
 )
 
 func main() {
